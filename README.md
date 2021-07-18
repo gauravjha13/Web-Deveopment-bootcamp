@@ -1,5 +1,5 @@
 # SHAPEAI WEB DEV BOOTCAMP
-Create a simple website using HTML,CSS.
+Create a simple website using HTML,CSS. (The Rock profile)
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI </b>.
 The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
